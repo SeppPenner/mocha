@@ -314,7 +314,7 @@
     "glob": "7.1.2",
     "growl": "1.10.3",
     "he": "1.1.1",
-    "mkdirp": "0.5.1",
+    "mkdirp": "1.0.0",
     "supports-color": "4.4.0"
   },
   "devDependencies": {
